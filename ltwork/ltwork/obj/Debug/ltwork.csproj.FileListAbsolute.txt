@@ -1,0 +1,11 @@
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\bin\Debug\ltwork.exe.config
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\bin\Debug\ltwork.exe
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\bin\Debug\ltwork.pdb
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.Form1.resources
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.Properties.Resources.resources
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.exe
+C:\Users\iSpan\Desktop\c#\week2\class7\ltwork\ltwork\obj\Debug\ltwork.pdb
